@@ -1,4 +1,4 @@
-# Install:
+# how to install:
 
   download quilt
   
