@@ -1,1 +1,4 @@
-# optimization-minecraft-pack
+# Install:
+  download quilt
+  Unpack mod.zip 
+ 
