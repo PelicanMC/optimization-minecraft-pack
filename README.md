@@ -1,6 +1,7 @@
-# how to install:
+# How to install
 
-  download quilt
+  Download [quilt]([quiltmc.org/](https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/latest/quilt-installer-latest.jar))  
+open quilt-installer
+click 
   
-  Unpack mod.zip 
  
